@@ -1,9 +1,17 @@
 # Hospital_Death_Analysis
 
+Description
+---
 Classification Problems using RF,DT,GB and XGBoost
 
-Data: https://www.kaggle.com/c/widsdatathon2020/data
+Data
+---
+https://www.kaggle.com/c/widsdatathon2020/data
 
-Output: https://sites.google.com/view/yuxuandata/project-presentation/hospital-death-analysis
+Output
+---
+https://sites.google.com/view/yuxuandata/project-presentation/hospital-death-analysis
 
-Teamwith @Top1meimei
+Contributor
+---
+[@guomei](https://github.com/Top1meimei)
